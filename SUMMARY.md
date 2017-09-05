@@ -20,7 +20,8 @@
   * [Publish](javascript/npm/publish.md)
 * [Yarn](javascript/introduction/yarn.md)
   * [与NPM的对比](javascript/introduction/yarn/yu-npm-de-dui-bi.md)
-* React
+* [React-Router](javascript/react.md)
+  * [过渡动画](javascript/react/guo-du-dong-hua.md)
 * Redux
   * [reducer注意事项](javascript/reducerzhu-yi-shi-xiang.md)
 
