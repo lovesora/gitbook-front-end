@@ -7,9 +7,6 @@
 ## Javascript
 
 * [Introduction](javascript/introduction.md)
-* [Nginx](javascript/introduction/nginx.md)
-  * [基本配置](javascript/introduction/nginx/ji-ben-pei-zhi.md)
-  * [React-Router配置](javascript/introduction/nginx/react-routerpei-zhi.md)
 * [ES6](javascript/es6.md)
   * [Promise](javascript/es6/promise.md)
   * [Fetch](javascript/es6/fetch.md)
@@ -21,4 +18,16 @@
   * [Publish](javascript/npm/publish.md)
 * [Yarn](javascript/introduction/yarn.md)
   * [与NPM的对比](javascript/introduction/yarn/yu-npm-de-dui-bi.md)
+
+## Cooperation
+
+* Git
+  * [设置upstream](cooperation/set-upstream.md)
+  * [Tag操作](cooperation/tagcao-zuo.md)
+
+## Server
+
+* [Nginx](javascript/introduction/nginx.md)
+  * [基本配置](javascript/introduction/nginx/ji-ben-pei-zhi.md)
+  * [React-Router配置](javascript/introduction/nginx/react-routerpei-zhi.md)
 
