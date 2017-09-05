@@ -1,8 +1,10 @@
 # Fetch
+> How
+
 ### 请求json数据
 ```js
-fetch(api, {
-    method: url.type
+fetch(api.url, {
+    method: api.type
 })
 .then(response => response.json())
 .then(json => {
