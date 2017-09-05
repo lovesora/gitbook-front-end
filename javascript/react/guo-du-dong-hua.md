@@ -1,6 +1,6 @@
 > How
 
-# route的切换效果
+# Route的切换效果
 ```js
 <ReactCSSTransitionGroup
     transitionName="fadeWrapper"
