@@ -12,4 +12,8 @@
   * [Fetch](javascript/es6/fetch.md)
 * [NPM](javascript/npm.md)
   * [Publish](javascript/npm/publish.md)
+* [Yarn](javascript/introduction/yarn.md)
+  * [与NPM的对比](javascript/introduction/yarn/yu-npm-de-dui-bi.md)
+* [Angular](javascript/angular.md)
+  * [Http Request](javascript/angular/http-request.md)
 
