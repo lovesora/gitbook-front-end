@@ -1,7 +1,6 @@
-# Fetch
 > How
 
-### 请求json数据
+# 请求json数据
 ```js
 fetch('//httpbin.org/post', {
     method: 'POST',
