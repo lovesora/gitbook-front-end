@@ -1,15 +1,12 @@
-# 使用fetch请求json数据
+# Fetch
+### 请求json数据
 ```js
 fetch(api, {
-    method: url.awards.list.type
+    method: url.type
 })
 .then(response => response.json())
 .then(json => {
-    if (0 == json.code) {
-        this.props.getAwardsListData(json.data);
-    } else {
-        console.log(json);
-    }
+    console.log(json);
 })
 .catch(e => {
     console.log(e);

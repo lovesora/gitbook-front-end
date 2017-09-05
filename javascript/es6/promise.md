@@ -1,13 +1,14 @@
 # Promise
+### 链式调用
 ```js
 /**
- * 1. 在正确信息的回调中使用throw进入错误信息捕获
- * 2. 在错误信息的回调中使用return进入正确信息捕获
+ * 1. throw进入错误信息捕获
+ * 2. return进入正确信息捕获
  * 
  * success -> return -> success
- * success -> throw -> success
+ * success -> throw  -> failure
  * failure -> return -> success
- * failure -> throw -> failure
+ * failure -> throw  -> failure
  */
 new Promise(res => {
     setTimeout(() => {
@@ -57,5 +58,5 @@ new Promise(res => {
 ```
 
 # Resouces
-* [Fetch](https://github.com/camsong/blog/issues/2)
+* [传统 Ajax 已死，Fetch 永生](https://github.com/camsong/blog/issues/2)
 * [Promises/A+](https://promisesaplus.com/)
