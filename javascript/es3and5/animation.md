@@ -15,3 +15,12 @@
 
     document.querySelector('.className').style.animation = 'animationRotate 5s linear 2s infinite alternate';
 ```
+
+# Event
+```js
+document.getElementById('rotaryContainer').addEventListener('webkitAnimationEnd', this.eventListener.bind(this));
+document.getElementById('rotaryContainer').addEventListener('animationend', this.eventListener.bind(this));
+```
+
+# Resouces
+* [CSS3动画](http://coderlt.coding.me/2017/06/09/animtion-css-base/)
