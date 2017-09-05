@@ -15,5 +15,7 @@
 * [Yarn](javascript/introduction/yarn.md)
   * [与NPM的对比](javascript/introduction/yarn/yu-npm-de-dui-bi.md)
 * [Angular](javascript/angular.md)
+  * [form](javascript/angular/form.md)
+  * [Service](javascript/angular/service.md)
   * [Http Request](javascript/angular/http-request.md)
 

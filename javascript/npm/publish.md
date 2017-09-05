@@ -1,4 +1,4 @@
-> how
+> How
 
 # 如何搭建npm库
 1. [npm官网](https://www.npmjs.com/)注册账号
