@@ -1,5 +1,3 @@
-> How
-
 # Select
 ```html
 <select ng-model="selected" ng-options="x.id as x.name for x in users"></select>

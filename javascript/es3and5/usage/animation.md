@@ -1,5 +1,3 @@
-> How
-
 # 添加CSS3的Animation
 ```js
     let styleSheet = document.styleSheets[0];

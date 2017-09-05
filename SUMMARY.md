@@ -18,14 +18,10 @@
   * [Http Request](javascript/angular/http-request.md)
 * [NPM](javascript/npm.md)
   * [Publish](javascript/npm/publish.md)
+* [Redux](javascript/redux.md)
+  * [reducer注意事项](javascript/reducerzhu-yi-shi-xiang.md)
 * [Yarn](javascript/introduction/yarn.md)
   * [与NPM的对比](javascript/introduction/yarn/yu-npm-de-dui-bi.md)
-* [React-Router](javascript/react.md)
-  * [过渡动画](javascript/react/guo-du-dong-hua.md)
-* Redux
-  * [reducer注意事项](javascript/reducerzhu-yi-shi-xiang.md)
-* CSS
-  * [布局](javascript/bu-ju.md)
 
 ## Cooperation
 
