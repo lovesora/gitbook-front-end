@@ -20,6 +20,9 @@
   * [Publish](javascript/npm/publish.md)
 * [Yarn](javascript/introduction/yarn.md)
   * [与NPM的对比](javascript/introduction/yarn/yu-npm-de-dui-bi.md)
+* React
+* Redux
+  * [reducer注意事项](javascript/reducerzhu-yi-shi-xiang.md)
 
 ## Cooperation
 
