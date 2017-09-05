@@ -55,3 +55,7 @@ new Promise(res => {
     return e;
 })
 ```
+
+# Resouces
+* [Fetch](https://github.com/camsong/blog/issues/2)
+* [Promises/A+](https://promisesaplus.com/)
