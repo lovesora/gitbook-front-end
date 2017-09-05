@@ -15,6 +15,7 @@ fetch(api.url, {
 });
 ```
 
+
 # Resouces
 * [mdn fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/GlobalFetch/fetch)
 * [whatwg fetch](https://fetch.spec.whatwg.org/)
