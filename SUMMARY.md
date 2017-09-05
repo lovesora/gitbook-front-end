@@ -7,6 +7,8 @@
 ## Javascript
 
 * [Introduction](javascript/introduction.md)
+* [ES3&5](javascript/es3and5.md)
+  * [Animation](javascript/es3and5/animation.md)
 * [ES6](javascript/es6.md)
   * [Promise](javascript/es6/promise.md)
   * [Fetch](javascript/es6/fetch.md)

@@ -12,5 +12,3 @@
 * 在推送的同时，同时设置upstream
 
     `$ git push -u origin master`
-
- 
