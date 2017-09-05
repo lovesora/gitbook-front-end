@@ -20,5 +20,6 @@ fetch('//httpbin.org/post', {
 ```
 
 # Resouces
+* [**fetch API 简介**](http://bubkoo.com/2015/05/08/introduction-to-fetch/)
 * [mdn fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/GlobalFetch/fetch)
 * [whatwg fetch](https://fetch.spec.whatwg.org/)
