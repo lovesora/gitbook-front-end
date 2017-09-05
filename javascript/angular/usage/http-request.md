@@ -1,5 +1,3 @@
-> How
-
 # 使用$http请求数据
 ```js
 // $http.get(url, config);

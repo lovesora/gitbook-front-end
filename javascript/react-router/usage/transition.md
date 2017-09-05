@@ -1,5 +1,3 @@
-> How
-
 # Route的切换效果
 ```js
 <ReactCSSTransitionGroup

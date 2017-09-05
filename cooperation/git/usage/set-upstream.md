@@ -1,5 +1,3 @@
-> How
-
 # Git设置upstream
 * 将当前分支的upstream为origin远程仓库的dev分支
 

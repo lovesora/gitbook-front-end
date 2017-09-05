@@ -1,5 +1,3 @@
-> How
-
 # 注册服务
 ```js
 app.factory('serviceName', function ($http, $q) {

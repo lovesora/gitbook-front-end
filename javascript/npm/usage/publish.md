@@ -1,5 +1,3 @@
-> How
-
 # 如何搭建npm库
 1. [npm官网](https://www.npmjs.com/)注册账号
 2. 本地终端运行`npm adduser`
