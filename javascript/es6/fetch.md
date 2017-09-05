@@ -3,16 +3,20 @@
 
 ### 请求json数据
 ```js
-fetch(api.url, {
-    method: api.type
+fetch('//httpbin.org/post', {
+    method: 'POST',
+    headers: {
+        'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({user: 'lx'})
 })
-.then(response => response.json())
-.then(json => {
-    console.log(json);
-})
+.then(res => res.json())
+.then(json => console.log(json.json))
 .catch(e => {
     console.log(e);
 });
+
+//console {user: 'lx'}
 ```
 
 # Resouces
