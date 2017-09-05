@@ -21,7 +21,7 @@
 
 ## Cooperation
 
-* Git
+* [Git](cooperation/git.md)
   * [设置upstream](cooperation/set-upstream.md)
   * [Tag操作](cooperation/tagcao-zuo.md)
 
