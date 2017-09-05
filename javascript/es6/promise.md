@@ -1,4 +1,7 @@
 # Promise
+
+> What
+
 ### 链式调用
 ```js
 /**
@@ -15,10 +18,10 @@ new Promise(res => {
         let r = 'res';
         console.log(r);//res
         res(r);
-    }, 500);
+    }, 0);
 }).then(r => {
-    r = r + ' -> then';//res -> then
-    console.log(r);
+    r = r + ' -> then';
+    console.log(r);//res -> then
     return r;
 }).then(r => {
     r = r + ' -> then';
@@ -35,8 +38,8 @@ new Promise(res => {
     // return 会进入下一个then的第一个回调
     return rej;
 }).then(r => {
-    r = r + ' -> then';//res -> then -> then -> rej -> then
-    console.log(r);
+    r = r + ' -> then';
+    console.log(r);//res -> then -> then -> rej -> then
     return r;
 }, rej => {
     rej = rej + ' -> rej';
@@ -47,8 +50,8 @@ new Promise(res => {
     console.log(e);//不会执行
     return e;
 }).then(r => {
-    r = r + ' -> then';//res -> then -> then -> rej -> then -> then
-    console.log(r);
+    r = r + ' -> then';
+    console.log(r);//res -> then -> then -> rej -> then -> then
     throw r;
 }).catch(e => {
     e = e + ' -> catch';
