@@ -1,5 +1,3 @@
-> What
-
 # yarn.lock 文件
 保证每一次拉取同一个项目依赖时，使用的都是一样的模块版本
 * [yarn.lock](https://yarnpkg.com/en/docs/configuration#toc-use-yarn-lock-to-pin-your-dependencies)
