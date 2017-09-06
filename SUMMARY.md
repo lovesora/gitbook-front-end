@@ -7,31 +7,35 @@
 ## Javascript
 
 * [Introduction](javascript/introduction.md)
-* [ES3&5](javascript/es3and5.md)
-  * [Animation](javascript/es3and5/animation.md)
-* [ES6](javascript/es6.md)
-  * [Promise](javascript/es6/promise.md)
-  * [Fetch](javascript/es6/fetch.md)
-* [Angular](javascript/angular.md)
-  * [form](javascript/angular/form.md)
-  * [Service](javascript/angular/service.md)
-  * [Http Request](javascript/angular/http-request.md)
-* [NPM](javascript/npm.md)
-  * [Publish](javascript/npm/publish.md)
-* [Redux](javascript/redux.md)
-  * [reducer注意事项](javascript/reducerzhu-yi-shi-xiang.md)
-* [Yarn](javascript/introduction/yarn.md)
-  * [与NPM的对比](javascript/introduction/yarn/yu-npm-de-dui-bi.md)
+* [ES3&5](javascript/es3and5/principle/es3and5.md)
+  * [Animation](javascript/es3and5/usage/animation.md)
+* [ES6](javascript/principle/es6.md)
+  * [Promise](javascript/es6/usage/promise.md)
+  * [Fetch](javascript/es6/usage/fetch.md)
+* [Angular](javascript/angular/principle/angular.md)
+  * [Form](javascript/angular/usage/form.md)
+  * [Service](javascript/angular/usage/service.md)
+  * [Http Request](javascript/angular/usage/http-request.md)
+* [Redux](javascript/redux/principle/redux.md)
+  * [Reducer注意事项](javascript/redux/usage/reducer.md)
+* [NPM](javascript/npm/principle/npm.md)
+  * [Publish](javascript/npm/usage/publish.md)
+* [Yarn](javascript/yarn/principle/yarn.md)
+  * [与NPM的对比](javascript/yarn/principle/compare-with-npm.md)
+
+## CSS
+
+* [Layout](css/usage/layout.md)
 
 ## Cooperation
 
-* [Git](cooperation/git.md)
-  * [设置upstream](cooperation/set-upstream.md)
-  * [Tag操作](cooperation/tagcao-zuo.md)
+* [Git](cooperation/git/principle/git.md)
+  * [Set Upstream](cooperation/git/usage/set-upstream.md)
+  * [Tag Operation](cooperation/git/usage/remote-tag.md)
 
 ## Server
 
-* [Nginx](javascript/introduction/nginx.md)
-  * [基本配置](javascript/introduction/nginx/ji-ben-pei-zhi.md)
-  * [React-Router配置](javascript/introduction/nginx/react-routerpei-zhi.md)
+* [Nginx](server/nginx/principle/nginx.md)
+  * [基本配置](server/nginx/usage/proxy.md)
+  * [React-Router配置](server/nginx/usage/react-router.md)
 
