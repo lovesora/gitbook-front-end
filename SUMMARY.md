@@ -6,13 +6,13 @@
 
 ## Javascript
 
-* [Introduction](javascript/introduction.md)
 * [ES3&5](javascript/es3and5/principle/es3and5.md)
   * [Animation](javascript/es3and5/usage/animation.md)
-* [ES6](javascript/principle/es6.md)
+* [ES6](javascript/es3and5/principle/es6.md)
   * [Promise](javascript/es6/usage/promise.md)
   * [Fetch](javascript/es6/usage/fetch.md)
 * [Angular](javascript/angular/principle/angular.md)
+  * [Directory](javascript/angular/principle/directory.md)
   * [Form](javascript/angular/usage/form.md)
   * [Service](javascript/angular/usage/service.md)
   * [Http Request](javascript/angular/usage/http-request.md)

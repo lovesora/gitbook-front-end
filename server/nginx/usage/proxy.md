@@ -1,5 +1,3 @@
-> How
-
 # 配置Nginx反向代理
 
 ```bash

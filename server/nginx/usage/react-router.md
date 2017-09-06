@@ -1,5 +1,3 @@
-> How
-
 # 配置React-Router
 ```bash
 location ^~/react/ {
