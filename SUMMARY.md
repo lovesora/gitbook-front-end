@@ -30,8 +30,9 @@
 ## Cooperation
 
 * [Git](cooperation/git/principle/git.md)
-  * [Set Upstream](cooperation/git/usage/set-upstream.md)
-  * [Tag Operation](cooperation/git/usage/remote-tag.md)
+  * [Usage](cooperation/git/usage)
+    * [Set Upstream](cooperation/git/usage/set-upstream.md)
+    * [Tag Operation](cooperation/git/usage/remote-tag.md)
 
 ## Server
 
