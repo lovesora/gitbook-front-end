@@ -56,7 +56,7 @@ new Promise(res => {
 })
 ```
 
-# Resouces
+# Resources
 * [MDN Promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [传统 Ajax 已死，Fetch 永生](https://github.com/camsong/blog/issues/2)
 * [Promises/A+](https://promisesaplus.com/)

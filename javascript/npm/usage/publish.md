@@ -16,5 +16,5 @@
 5. 更新版本`npm version patch && npm publish`
 
 
-# Resouces
+# Resources
 * [搭建前端私有npm杂记](http://www.cnblogs.com/lvdabao/p/frontend-private-npm.html)

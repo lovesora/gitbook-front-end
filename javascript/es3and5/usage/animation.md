@@ -20,5 +20,5 @@ document.getElementById('rotaryContainer').addEventListener('webkitAnimationEnd'
 document.getElementById('rotaryContainer').addEventListener('animationend', this.eventListener.bind(this));
 ```
 
-# Resouces
+# Resources
 * [CSS3动画](http://coderlt.coding.me/2017/06/09/animtion-css-base/)
