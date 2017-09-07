@@ -1,3 +1,7 @@
+# 需要学习的技术
+* JS OOP
+    * [ruanyifeng](http://javascript.ruanyifeng.com/oop/basic.html)
+
 # 有时间可以阅读的文章
 * [infoQ](http://www.infoq.com/cn/fp/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
     * [用GraphQL增强React](http://www.infoq.com/cn/articles/turbocharge-react-graphql)

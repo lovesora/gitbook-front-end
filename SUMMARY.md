@@ -7,6 +7,7 @@
 ## Javascript
 
 * [ES3&5](javascript/es3and5/principle/es3and5.md)
+  * [OOP](javascript/es3and5/principle/oop.md)
   * [Animation](javascript/es3and5/usage/animation.md)
 * [ES6](javascript/es6/principle/es6.md)
   * [Promise](javascript/es6/usage/promise.md)
@@ -32,8 +33,10 @@
 
 ## CSS
 
-* [Mobile](css/usage/mobile.md)
-* [Layout](css/usage/layout.md)
+* [compatibility](css/compatibility/usage/compatibility.md)
+  * [Mobile](css/compatibility/usage/mobile.md)
+  * [Wechat](css/compatibility/usage/wechat.md)
+* [Layout](css/layout/usage/layout.md)
 
 ## WeChat
 
