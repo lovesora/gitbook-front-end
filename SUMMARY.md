@@ -9,6 +9,7 @@
 * [ES3&5](javascript/es3and5/principle/es3and5.md)
   * [OOP](javascript/es3and5/principle/oop.md)
   * [Animation](javascript/es3and5/usage/animation.md)
+  * [Exception](javascript/es3and5/usage/exception.md)
 * [ES6](javascript/es6/principle/es6.md)
   * [Promise](javascript/es6/usage/promise.md)
   * [Fetch](javascript/es6/usage/fetch.md)
@@ -31,11 +32,15 @@
   * [lan access](javascript/webpack/usage/lan-access.md)
 * [Mock](javascript/mock/principle/mock.md)
 
+## Three.js
+* [Tutorial](javascript/threejs/usage/tutorial.md)
+
 ## CSS
 
 * [compatibility](css/compatibility/usage/compatibility.md)
   * [Mobile](css/compatibility/usage/mobile.md)
   * [Wechat](css/compatibility/usage/wechat.md)
+  * [browser](css/compatibility/usage/browser.md)
 * [Layout](css/layout/usage/layout.md)
 
 ## WeChat
@@ -47,7 +52,16 @@
 * [Git](cooperation/git/principle/git.md)
   * [Set Upstream](cooperation/git/usage/set-upstream.md)
   * [Tag Operation](cooperation/git/usage/remote-tag.md)
-  * [Branch Operation](cooperation/git/usage/branch.md)
+  * [Rollback Operation](cooperation/git/usage/rollback.md)
+
+## markdown
+
+* [README](markdown/usage/readme.md)
+
+## IDE
+
+* [VSCode](ide/vscode/principle/vscode.md)
+  * [plugins](ide/vscode/usage/plugins.md)
 
 ## Server
 
@@ -79,4 +93,5 @@
 
 * [Online Tool](resources/online-tool.md)
 * [Forum](resources/forum.md)
+* [software site](resources/software.md)
 * [Todo List](resources/todo.md)

@@ -1,3 +1,9 @@
+# 任务
+* angular-boilerplate
+* 官网设计
+* 泰国版
+* three.js
+
 # 需要学习的技术
 * JS OOP
     * [ruanyifeng](http://javascript.ruanyifeng.com/oop/basic.html)
@@ -14,6 +20,18 @@
 * chrome dev tools
     * [official doc](https://developers.google.com/web/tools/setup/setup-workflow?hl=zh-cn)
 * [凹凸实验室 console](https://aotu.io/notes/2016/06/22/An-interesting-experience-on-console/index.html)
+
+# 有时间可以整理的技术
+1. angular boilerplate
+2. ui-select
+3. ng-table
+4. descartes
+5. dropdown
+6. .form .form-group .input-group .input-group-btn
+7. .font-aswome
+8. swagger
+9. codacy
+10. https://cloud.tencent.com/developer/labs
 
 # 问题
 * 对任务的评估不准确(是否可以枚举解决)
@@ -70,14 +88,3 @@
         1. 通过nginx转发假数据太麻烦，通过rap更简洁，方便
         2. 假数据的生成问题（具体值）
         3. 解决了前端的部分接口测试问题
-
-# 有时间可以整理的技术
-1. angular boilerplate
-2. ui-select
-3. ng-table
-4. descartes
-5. dropdown
-6. .form .form-group .input-group .input-group-btn
-7. .font-aswome
-8. swagger
-9. codacy
