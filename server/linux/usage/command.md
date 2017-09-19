@@ -7,4 +7,7 @@ find ./ -name '*.map' | xargs rm -rf
 # 查找当前文件夹下包含name字符串的文件
 # -r 递归 -l只显示文件名 -E正则表达式
 grep -r -l -E 'proxy' ./
+
+# 通过正则查找文件并且删除
+find ./src | grep -E '\\.(map|css)$' | xargs rm -rf
 ```
