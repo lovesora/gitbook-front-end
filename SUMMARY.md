@@ -70,6 +70,7 @@
   * [进程](server/linux/usage/proccess.md)
   * [防火墙](server/linux/usage/firewalld.md)
   * [文件传输](server/linux/usage/file-transfer.md)
+  * [命令](server/linux/usage/command.md)
 * [Nginx](server/nginx/principle/nginx.md)
   * [基本配置](server/nginx/usage/proxy.md)
   * [React-Router配置](server/nginx/usage/react-router.md)
