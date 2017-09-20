@@ -3,17 +3,23 @@
 2. 本地终端运行`npm adduser`
 3. `package.json`
 
-    ```js
-    {
-        "name": "projectName", // package的名称
-        "author": "liuxin <475212506@qq.com>", // 作者的相关信息
-        "version": "0.0.1", // 版本号(semantic version)
-        "main": "index" // 入口文件，当在其他文件中require('projectName')时，将会加载index.js
-    }
-    ```
+```json
+{
+    "name": "projectName", // package的名称
+    "author": "liuxin <475212506@qq.com>", // 作者的相关信息
+    "version": "0.0.1", // 版本号(semantic version)
+    "main": "index" // 入口文件，当在其他文件中require('projectName')时，将会加载index.js
+}
+```
 
 4. 发布`npm publish`
 5. 更新版本`npm version patch && npm publish`
+6. 删除
+```bash
+npm unpublish project-name@0.1.0
+or
+npm unpublish –force project-name
+```
 
 
 # Resources
