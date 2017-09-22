@@ -1,4 +1,10 @@
 # Front-End
+* Segmentfault
+    > [Home](https://segmentfault.com/)
+
+* Juejin
+    > [Home](https://juejin.im/)
+
 * WEB资源网
     > [Home](http://webres.wang/)
 
