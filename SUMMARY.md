@@ -47,7 +47,8 @@
 
 ## SASS
 
-* [Resources](sass/resources.md);
+* [mixin](sass/usage/mixin.md)
+* [Resources](sass/resources.md)
 
 ## WeChat
 
