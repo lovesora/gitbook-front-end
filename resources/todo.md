@@ -1,9 +1,8 @@
 # 任务
-* 官网设计
-* 泰国版
 * three.js
 
 1. [hexo](https://hexo.io/)
+2. 服务器部署脚本
 
 # 需要学习的技术
 * JS OOP
@@ -15,6 +14,8 @@
 * performance optimize
     * [jinlong](http://jinlong.github.io/2017/05/08/optimising-the-front-end-for-the-browser/)
     * [juejin](https://juejin.im/entry/579f2cf179bc440054894687)
+* test
+    * [coveralls](https://coveralls.io/)
     
 # 需要整理的文章
 * [Flex](https://mp.weixin.qq.com/s?__biz=MzI3NTE2NjYxNw==&mid=401772881&idx=1&sn=2034c8ccae7d78ee98dbb1df3c76525a#rd)

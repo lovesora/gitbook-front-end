@@ -20,6 +20,7 @@
 # angular
 * [angular-ui](http://angular-ui.github.io/bootstrap/#!#getting_started)
 * [angular-ui-select](https://github.com/angular-ui/ui-select/wiki/Getting-Started)
+* [ng-table]()
 
 # sass
 * [official doc](http://sass.bootcss.com/docs/sass-reference/#placeholders)
@@ -44,3 +45,11 @@
 
 # cdn
 * [bootcdn](http://www.bootcdn.cn/)
+
+---------
+
+# software
+* mac
+    * [macx](http://soft.macx.cn/)
+    * [macpeers](https://www.macpeers.com/)
+    * [xclient](http://xclient.info/)
