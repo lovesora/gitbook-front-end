@@ -60,6 +60,7 @@
   * [Set Upstream](cooperation/git/usage/set-upstream.md)
   * [Tag Operation](cooperation/git/usage/remote-tag.md)
   * [Rollback Operation](cooperation/git/usage/rollback.md)
+  * [statistic](cooperation/git/usage/statistic.md)
 
 ## markdown
 
