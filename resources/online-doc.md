@@ -5,6 +5,9 @@
 
 ---------
 
+# forum
+    - [front-end](http://caibaojian.com/)
+
 # proccess
 * [proccesson](https://processon.com)
 
@@ -16,11 +19,35 @@
 ---------
 
 * [waypoints](http://imakewebthings.com/waypoints/api/waypoint/)
+* [lodash](https://lodash.com/docs#isEqual)
+* [lodash-ch](http://www.css88.com/doc/lodash/#_clonevalue)
 
-# angular
+---------
+
+* [libraries.io](https://libraries.io/)
+
+# js 
+* [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)
+
+# typescript
+* [tslang.cn](https://www.tslang.cn/docs/home.html)
+
+# angularjs
 * [angular-ui](http://angular-ui.github.io/bootstrap/#!#getting_started)
 * [angular-ui-select](https://github.com/angular-ui/ui-select/wiki/Getting-Started)
-* [ng-table]()
+
+# angular
+* [angular-cli](https://github.com/angular/angular-cli/wiki)
+* [angular-component](https://github.com/brillout/awesome-angular-components)
+
+---------
+
+* [ngrx](https://github.com/ngrx/platform)
+
+---------
+
+* [rxjs cn](http://cn.rx.js.org/manual/overview.html)
+* [rxjs](http://reactivex.io/rxjs/)
 
 # sass
 * [official doc](http://sass.bootcss.com/docs/sass-reference/#placeholders)
@@ -42,6 +69,9 @@
 * [material desing](https://material.io/guidelines/material-design/introduction.html#)
 
 ---------
+
+* inspired
+    * [uplabs](https://www.uplabs.com/)
 
 # cdn
 * [bootcdn](http://www.bootcdn.cn/)

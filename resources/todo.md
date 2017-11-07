@@ -4,6 +4,11 @@
 1. [hexo](https://hexo.io/)
 2. 服务器部署脚本
 
+# 高优先级
+* github.io
+* project arrangement
+* angular cli 部署配置 路由
+
 # 需要学习的技术
 * JS OOP
     * [ruanyifeng](http://javascript.ruanyifeng.com/oop/basic.html)
