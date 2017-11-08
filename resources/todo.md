@@ -8,6 +8,7 @@
 * github.io
 * project arrangement
 * angular cli 部署配置 路由
+* rxjs
 
 # 需要学习的技术
 * JS OOP
