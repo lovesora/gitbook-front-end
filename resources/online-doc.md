@@ -59,6 +59,10 @@
     * [bootsnippet](https://bootsnipp.com/)
 * animation
     * [animate.css](https://daneden.github.io/animate.css/)
+* weui
+    * [weui e.g](https://weui.io)
+    * [weui.js e.g](https://weui.io/weui.js/)
+    * [wiki](https://github.com/Tencent/weui/wiki)
 
 # icon
 * [font-awsome](http://fontawesome.io/icons/)
