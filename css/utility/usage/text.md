@@ -1,3 +1,12 @@
+# 单行文本超出宽度后显示'...'
+```css
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+```
+
 # 禁止选择
 ```css
 .unselectable {

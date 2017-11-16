@@ -45,7 +45,9 @@
   * [Browser](css/compatibility/usage/browser.md)
 * [Layout](css/layout/usage/layout.md)
 * [Utility](css/utility/utility.md)
-  * [select](css/utility/usage/select.md)
+  * [form](css/utility/usage/form.md)
+  * [transition](css/utility/usage/transition.md)
+  * [text](css/utility/usage/text.md)
 
 ## SASS
 
