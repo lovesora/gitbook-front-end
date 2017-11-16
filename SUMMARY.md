@@ -44,6 +44,8 @@
   * [Wechat](css/compatibility/usage/wechat.md)
   * [Browser](css/compatibility/usage/browser.md)
 * [Layout](css/layout/usage/layout.md)
+* [Utility](css/utility/utility.md)
+  * [select](css/utility/usage/select.md)
 
 ## SASS
 
