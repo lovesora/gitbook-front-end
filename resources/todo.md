@@ -5,6 +5,10 @@
 2. 服务器部署脚本
 
 # 高优先级
+* css整理
+    * 布局
+    * 样式
+    * 动画
 * github.io
 * project arrangement
 * angular cli 部署配置 路由

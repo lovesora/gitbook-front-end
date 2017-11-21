@@ -49,6 +49,11 @@
 * [rxjs cn](http://cn.rx.js.org/manual/overview.html)
 * [rxjs](http://reactivex.io/rxjs/)
 
+# wechat
+* [小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+    * [小程序后台管理](https://mp.weixin.qq.com/)
+
+
 # sass
 * [official doc](http://sass.bootcss.com/docs/sass-reference/#placeholders)
 
@@ -88,3 +93,13 @@
     * [macx](http://soft.macx.cn/)
     * [macpeers](https://www.macpeers.com/)
     * [xclient](http://xclient.info/)
+    * [pc6](http://www.pc6.com/mach/rjkfgj/)
+
+
+# hardware
+* 串口
+    * [mac](http://blog.csdn.net/u010285246/article/details/72354038)
+
+
+# mirro
+* [清华](https://mirrors.tuna.tsinghua.edu.cn/help)

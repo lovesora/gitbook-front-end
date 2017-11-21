@@ -6,3 +6,6 @@
 
 # Code Cooperation
 * [paste](http://paste.ubuntu.com/)
+
+# encoding
+* [encode1](http://demo.nickname.net/demo/testpak/encode.pl)
