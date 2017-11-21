@@ -30,6 +30,7 @@
   * [与NPM的对比](javascript/yarn/principle/compare-with-npm.md)
 * [Webpack](javascript/webpack/principle.webpack.md)
   * [Lan Access](javascript/webpack/usage/lan-access.md)
+* [JS Lib](javascript/webpack/usage/js-lib.md)
 * [Third-Part Lib](javascript/third-part-lib/third-part-lib.md)
   * [Mock](javascript/third-part-lib/mock/principle/mock.md)
   * [Moment](javascript/third-part-lib/moment/principle/moment.md)
