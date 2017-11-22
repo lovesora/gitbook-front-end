@@ -22,6 +22,8 @@
   * [Resources](javascript/react/resources.md)
 * [Redux](javascript/redux/principle/redux.md)
   * [Reducer](javascript/redux/usage/reducer.md)
+* [Rxjs](javascript/rxjs/principle/rxjs.md)
+  * [http](javascript/rxjs/usage/http.md)
 * [Redux-Saga](javascript/redux-saga/principle/redux-saga.md)
   * [Resources](javascript/redux-saga/resources.md)
 * [NPM](javascript/npm/principle/npm.md)
