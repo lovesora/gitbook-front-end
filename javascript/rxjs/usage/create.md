@@ -1,6 +1,6 @@
 # 创建
 
-## empty
+## empty、startWith
 
 ```js
 var result = Rx.Observable.empty().startWith(7);
