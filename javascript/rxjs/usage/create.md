@@ -1,5 +1,12 @@
 # 创建
 
+## empty
+
+```js
+var result = Rx.Observable.empty().startWith(7);
+result.subscribe(x => console.log(x));
+```
+
 ## create
 
 ```js
