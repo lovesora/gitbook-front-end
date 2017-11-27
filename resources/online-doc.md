@@ -67,7 +67,7 @@
 * weui
     * [weui e.g](https://weui.io)
     * [weui.js e.g](https://weui.io/weui.js/)
-    * [wiki](https://github.com/Tencent/weui/wiki)
+    * [wiki](https://githiub.com/Tencent/weui/wiki)
 
 # icon
 * [font-awsome](http://fontawesome.io/icons/)
@@ -82,6 +82,9 @@
 
 * inspired
     * [uplabs](https://www.uplabs.com/)
+
+# Linux
+* [linux tool](http://linuxtools-rst.readthedocs.io/zh_CN/latest)
 
 # cdn
 * [bootcdn](http://www.bootcdn.cn/)
