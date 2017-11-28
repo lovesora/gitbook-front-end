@@ -91,18 +91,16 @@
 
 ---------
 
-# software
-* mac
+# mac
+* icon
+    * [keyboard](http://newping.cn/457)
+* software
     * [macx](http://soft.macx.cn/)
     * [macpeers](https://www.macpeers.com/)
     * [xclient](http://xclient.info/)
     * [pc6](http://www.pc6.com/mach/rjkfgj/)
-
-
-# hardware
 * 串口
     * [mac](http://blog.csdn.net/u010285246/article/details/72354038)
-
 
 # mirro
 * [清华](https://mirrors.tuna.tsinghua.edu.cn/help)

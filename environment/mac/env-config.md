@@ -2,6 +2,12 @@
 ## front-end
 * nginx
 * brew
+```bash
+# 设置brew代理
+$ cd ~
+$ sudo vim .curl
+$ proxy=ip:port
+```
 * node
 * yarn
 * bower
