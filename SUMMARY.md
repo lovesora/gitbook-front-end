@@ -59,7 +59,7 @@
 * [mixin](sass/usage/mixin.md)
 * [Resources](sass/resources.md)
 
-## WeChat
+## WeChats
 
 * [QRcode](wechat/usage/qrcode.md)
 
@@ -79,6 +79,10 @@
 
 * [VSCode](ide/vscode/principle/vscode.md)
   * [plugins](ide/vscode/usage/plugins.md)
+* [vim](ide/vim/principle/vim.md)
+  * [iterm2](ide/vim/usage/iterm2.md)
+  * [shortcut](ide/vim/usage/shortcut.md)
+  
 
 ## Server
 

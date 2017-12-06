@@ -74,6 +74,13 @@
 
 ---------
 
+# vim
+* [video](https://asciinema.org)
+* [neo-vim doc](https://neovim.io/doc/user/index.html)
+
+* Plugin
+    * [nerdtree](http://yang3wei.github.io/blog/2013/01/29/nerdtree-kuai-jie-jian-ji-lu/)
+
 # design
 * [material desing](https://material.io/guidelines/material-design/introduction.html#)
 * [material icon](https://material.io/icons/)
@@ -82,6 +89,12 @@
 
 * inspired
     * [uplabs](https://www.uplabs.com/)
+    * [pixinvent](https://pixinvent.com/)
+    * [codecovers](http://www.codecovers.eu/materialadmin/dashboards/dashboard)
+
+* index
+    * [designguidelines](http://designguidelines.co/)
+    * [design google](https://design.google/)
 
 # Linux
 * [linux tool](http://linuxtools-rst.readthedocs.io/zh_CN/latest)
@@ -104,3 +117,4 @@
 
 # mirro
 * [清华](https://mirrors.tuna.tsinghua.edu.cn/help)
+
