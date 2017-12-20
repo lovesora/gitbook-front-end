@@ -1,3 +1,20 @@
+# vim
+* 整理vimrc
+    * 依赖安装说明
+* 自动补全ts属性
+* 文件图标
+
+* https://juejin.im/entry/5878222661ff4b0065e447af
+* https://github.com/L0stSoul/vim-config
+* https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/
+* https://www.linuxzen.com/tui-jian-ji-kuan-zui-jin-fa-xian-fei-chang-ku-de-vimcha-jian.html
+* http://www.wklken.me/posts/2013/06/11/linux-my-vim.html
+* http://vim.wikia.com/wiki/Vim_Tips_Wiki:New_tips/2015
+* https://davidosomething.com/blog/vim-for-javascript/
+* http://ctrlpvim.github.io/ctrlp.vim/
+* http://www.dotnetsurfers.com/blog/2016/02/08/using-vim-as-a-javascript-ide
+* https://github.com/jaywcjlove/vim-web#%E6%8F%92%E4%BB%B6%E7%AE%A1%E7%90%86
+
 # 任务
 * three.js
 
