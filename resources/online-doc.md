@@ -91,6 +91,7 @@
 
 # icon
 * [font-awsome](http://fontawesome.io/icons/)
+* [icon-font](http://www.iconfont.cn/)
 
 ---------
 # IDE
